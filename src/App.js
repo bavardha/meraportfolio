@@ -8,7 +8,7 @@ function App() {
       <Header />
       <section id="Intro">
         <header className="App-header">
-          <h2>Intro</h2>
+          <h2>Hi!!!</h2>
         </header>
       </section>
       <section id="AboutMe">
