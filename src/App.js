@@ -1,23 +1,41 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.min.css";
+import Header from "./components/Header";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <section id="Intro">
+        <header className="App-header">
+          <h2>Intro</h2>
+        </header>
+      </section>
+      <section id="AboutMe">
+        <header className="App-header">
+          <h2>About Me</h2>
+        </header>
+      </section>
+      <section id="MeraThoughts">
+        <header className="App-header">
+          <h2>Mera Thoughts</h2>
+        </header>
+      </section>
+      <section id="MeraExperience">
+        <header className="App-header">
+          <h2>Mera Experience</h2>
+        </header>
+      </section>
+      <section id="MeraProjects">
+        <header className="App-header">
+          <h2>Mera Projects</h2>
+        </header>
+      </section>
+      <section id="ContactMe">
+        <header className="App-header">
+          <h2>Contact Me</h2>
+        </header>
+      </section>
     </div>
   );
 }
