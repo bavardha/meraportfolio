@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/meraportfolio/static/css/main.525442af.chunk.css",
-    "main.js": "/meraportfolio/static/js/main.a65622a4.chunk.js",
-    "main.js.map": "/meraportfolio/static/js/main.a65622a4.chunk.js.map",
-    "runtime-main.js": "/meraportfolio/static/js/runtime-main.7cf27506.js",
-    "runtime-main.js.map": "/meraportfolio/static/js/runtime-main.7cf27506.js.map",
-    "static/css/2.150d169a.chunk.css": "/meraportfolio/static/css/2.150d169a.chunk.css",
-    "static/js/2.86b8de32.chunk.js": "/meraportfolio/static/js/2.86b8de32.chunk.js",
-    "static/js/2.86b8de32.chunk.js.map": "/meraportfolio/static/js/2.86b8de32.chunk.js.map",
-    "static/js/3.339c7297.chunk.js": "/meraportfolio/static/js/3.339c7297.chunk.js",
-    "static/js/3.339c7297.chunk.js.map": "/meraportfolio/static/js/3.339c7297.chunk.js.map",
+    "main.css": "/meraportfolio/static/css/main.7a25311f.chunk.css",
+    "main.js": "/meraportfolio/static/js/main.e77fc3a4.chunk.js",
+    "main.js.map": "/meraportfolio/static/js/main.e77fc3a4.chunk.js.map",
+    "runtime-main.js": "/meraportfolio/static/js/runtime-main.5728da75.js",
+    "runtime-main.js.map": "/meraportfolio/static/js/runtime-main.5728da75.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/meraportfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.69ba84c2.chunk.js": "/meraportfolio/static/js/2.69ba84c2.chunk.js",
+    "static/js/2.69ba84c2.chunk.js.map": "/meraportfolio/static/js/2.69ba84c2.chunk.js.map",
+    "static/js/3.dbd8ccb0.chunk.js": "/meraportfolio/static/js/3.dbd8ccb0.chunk.js",
+    "static/js/3.dbd8ccb0.chunk.js.map": "/meraportfolio/static/js/3.dbd8ccb0.chunk.js.map",
     "index.html": "/meraportfolio/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/meraportfolio/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.525442af.chunk.css.map": "/meraportfolio/static/css/main.525442af.chunk.css.map",
-    "static/js/2.86b8de32.chunk.js.LICENSE.txt": "/meraportfolio/static/js/2.86b8de32.chunk.js.LICENSE.txt",
+    "static/css/2.4c97ca4f.chunk.css.map": "/meraportfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.7a25311f.chunk.css.map": "/meraportfolio/static/css/main.7a25311f.chunk.css.map",
+    "static/js/2.69ba84c2.chunk.js.LICENSE.txt": "/meraportfolio/static/js/2.69ba84c2.chunk.js.LICENSE.txt",
     "static/media/linkedin.d1085788.svg": "/meraportfolio/static/media/linkedin.d1085788.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7cf27506.js",
-    "static/css/2.150d169a.chunk.css",
-    "static/js/2.86b8de32.chunk.js",
-    "static/css/main.525442af.chunk.css",
-    "static/js/main.a65622a4.chunk.js"
+    "static/js/runtime-main.5728da75.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.69ba84c2.chunk.js",
+    "static/css/main.7a25311f.chunk.css",
+    "static/js/main.e77fc3a4.chunk.js"
   ]
 }
