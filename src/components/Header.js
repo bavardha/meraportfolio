@@ -35,6 +35,7 @@ function Header() {
             <a
               href="https://www.linkedin.com/in/harsha-balanagu/"
               target="_blank"
+              rel="noreferrer"
             >
               <img src={linkedIn} className="socialIcon" alt="logo" />
             </a>
