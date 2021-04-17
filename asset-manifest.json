@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/meraPortfolio/static/css/main.7a25311f.chunk.css",
+    "main.js": "/meraPortfolio/static/js/main.8cde828b.chunk.js",
+    "main.js.map": "/meraPortfolio/static/js/main.8cde828b.chunk.js.map",
+    "runtime-main.js": "/meraPortfolio/static/js/runtime-main.570536a5.js",
+    "runtime-main.js.map": "/meraPortfolio/static/js/runtime-main.570536a5.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/meraPortfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.69ba84c2.chunk.js": "/meraPortfolio/static/js/2.69ba84c2.chunk.js",
+    "static/js/2.69ba84c2.chunk.js.map": "/meraPortfolio/static/js/2.69ba84c2.chunk.js.map",
+    "static/js/3.dbd8ccb0.chunk.js": "/meraPortfolio/static/js/3.dbd8ccb0.chunk.js",
+    "static/js/3.dbd8ccb0.chunk.js.map": "/meraPortfolio/static/js/3.dbd8ccb0.chunk.js.map",
+    "index.html": "/meraPortfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/meraPortfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.7a25311f.chunk.css.map": "/meraPortfolio/static/css/main.7a25311f.chunk.css.map",
+    "static/js/2.69ba84c2.chunk.js.LICENSE.txt": "/meraPortfolio/static/js/2.69ba84c2.chunk.js.LICENSE.txt",
+    "static/media/linkedin.d1085788.svg": "/meraPortfolio/static/media/linkedin.d1085788.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.570536a5.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.69ba84c2.chunk.js",
+    "static/css/main.7a25311f.chunk.css",
+    "static/js/main.8cde828b.chunk.js"
+  ]
+}
