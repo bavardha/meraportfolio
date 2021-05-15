@@ -7,7 +7,7 @@ import MeraTypewriter from "./components/Intro/MeraTypewriter";
 function App() {
   return (
     <div className="App">
-      {/* <Particles
+      <Particles
         className="background"
         width="100vw"
         height="100vh"
@@ -82,7 +82,7 @@ function App() {
             },
           },
         }}
-      /> */}
+      />
       <Header />
       <section id="Intro">
         <header className="App-header">
